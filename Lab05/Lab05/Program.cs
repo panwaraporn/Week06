@@ -12,7 +12,7 @@ class Program
 
     static void refMethod(ref int i)
     {
-        i = 1;
+        i = 9;
         i = i + 1;
     }
 }
